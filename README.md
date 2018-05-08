@@ -24,10 +24,8 @@ We break the notebook into separate steps:
 ## Results
 
 ### On the test set with a pretrained resnet50 architecture we get a test accuracy of 82%. 
---
 
 ### On the 10 images (mix of humans and dogs) we input manually, we get 8 correct. Below are the predicted results:
---
 
 <img src="results/1.png">
 <img src="results/2.png">
