@@ -21,3 +21,16 @@ We break the notebook into separate steps:
 
 3. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/bottleneck_features`.
 
+## Results
+
+** On the test set with a pretrained resnet50 architecture we get a test accuracy of 82%. **
+--
+
+### On the 10 images (mix of humans and dogs) we input manually, we get 8 correct. Below are the predicted results:
+--
+
+<img src="results/1.png">
+<img src="results/2.png">
+<img src="results/3.png">
+<img src="results/4.png">
+<img src="results/4.png">
