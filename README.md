@@ -31,4 +31,4 @@ We break the notebook into separate steps:
 <img src="results/2.png">
 <img src="results/3.png">
 <img src="results/4.png">
-<img src="results/4.png">
+<img src="results/5.png">
